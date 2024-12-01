@@ -23,6 +23,7 @@ const config = {
   organizationName: 'r-smith', // Usually your GitHub org/user name.
   projectName: 'test-docu', // Usually your repo name.
   deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
