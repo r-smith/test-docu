@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Welcome',
+  title: 'Welcome To The Site!',
 
   // Set the production url of your site here
   url: 'https://r-smith.github.io',
